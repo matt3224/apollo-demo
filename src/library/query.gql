@@ -1,0 +1,5 @@
+export const query1 = `
+    query($option: String!) {
+
+    }
+`;
